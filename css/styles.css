@@ -34,6 +34,7 @@ a, a:focus, a:hover {
 }
 
 .header-contacts {
+    color: #434455;
     font-size: 16px;
     font-style: normal;
     line-height: 1.5;
