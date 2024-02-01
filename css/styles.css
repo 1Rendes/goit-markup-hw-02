@@ -63,7 +63,7 @@ a, a:focus, a:hover {
 .header-nav:focus {
     color: #404BBF;
 }
-.header-h1 {
+.main-page-descr {
     color: #FFF;
     font-size: 56px;
     font-style: normal;
@@ -73,7 +73,7 @@ a, a:focus, a:hover {
     text-align: center;
 }
 
-.header-h2 {
+.our-team-head {
     color:#2E2F42;
     font-size: 36px;
     font-style: normal;
