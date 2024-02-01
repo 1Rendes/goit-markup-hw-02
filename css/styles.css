@@ -118,6 +118,7 @@ a, a:focus, a:hover {
 .benefits-headers {
     color:#2E2F42;
     font-size: 20px;
+    font-weight: 500;
     font-style: normal;
     line-height: 1.2;
     letter-spacing: 0.4px;
@@ -127,6 +128,10 @@ a, a:focus, a:hover {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.32px;
+}
+
+.our-team-list {
+    background-color: #FFFFFF;
 }
 
 .team-persons {
@@ -142,7 +147,7 @@ a, a:focus, a:hover {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.32px;
-    background-color: #FFFFFF;
+    
 }
 
 .portfolio-item-descr {
